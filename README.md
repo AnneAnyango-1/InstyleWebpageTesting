@@ -8,10 +8,10 @@ This repository documents my QA testing practice for the **Instyle Kenya Web App
 The project demonstrates **end-to-end quality assurance** using both **manual and automated testing techniques**, showcasing my ability to design, execute, and document tests for real-world applications.
 
 The artifacts in this repo include:
-- ✅ Selenium Automated Test Scripts  
-- ✅ Detailed Manual Test Cases (Excel)  
-- ✅ Requirements Traceability Matrix (RTM)  
-- ✅ QA Test Plan Document  
+-  Selenium Automated Test Scripts  
+-  Detailed Manual Test Cases (Excel)  
+-  Requirements Traceability Matrix (RTM)  
+-  QA Test Plan Document  
 
 This project reflects industry-standard QA processes and serves as part of my QA portfolio.
 
